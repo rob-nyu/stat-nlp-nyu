@@ -86,7 +86,7 @@ even	RB
 as	RB
 popular	JJ
 as	IN
-Yahoo!	NNP
+Yahoo	NNP
 and	CC
 AOL	NNP
 .	.
